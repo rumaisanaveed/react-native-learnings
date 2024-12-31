@@ -10,7 +10,7 @@ If you want to use this repository, follow these steps:
 
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/rumaisanaveed/react-native-learnings
+   git clone https://github.com/rumaisanaveed/react-native-learnings.git
    ```
 2. **Install dependencies**:  
    ```bash
